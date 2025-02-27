@@ -1,7 +1,7 @@
 ### Hi there. I am Diego 👋
 
 
-- 🔭 I’m currently working with Python and Java as a IAM Egineer (Sailpoint IIQ).
+- 🔭 I’m currently working with Java as a IAM Egineer (Sailpoint IIQ).
 - 🌱 I’m currently learning cloud computing, mainly using GCP.
 - 📫 You can reach me on my e-mail: diegobenario@gmail.com
 - 📱 Or in my cellphone: +55 (11) 93079-8536
